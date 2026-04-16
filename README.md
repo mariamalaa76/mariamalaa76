@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mariam Abdelfattah 👋</h1>
+<h1 align="center">Hi, I'm Mariam Alaa Mohamed Abdelfattah 👋</h1>
 
 <p align="center">
   <b>Computer Science Graduate · AI & Machine Learning Developer</b><br/>
